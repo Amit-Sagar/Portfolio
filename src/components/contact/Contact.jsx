@@ -37,12 +37,6 @@ const Contact = () => {
             <h5>+91 7551188506</h5>
             <a href="https://api.whatsapp.com/send?phone+91-7551188506">Send a message</a>
           </article> 
-          {/* <article className='contact_option'>
-            <MdOutlineDrafts/>
-            <h4>Messenger</h4>
-            <h5></h5>
-            <a href="">Send a message</a>
-          </article> */}
        </div>
        <form ref={form} onSubmit={sendEmail}> 
           <input type="text" name='name' placeholder='Your Full Name' required />

@@ -21,7 +21,7 @@ const About = () => {
              <article className='about_card'>
               <BsAward className='about_icon'/>
                <h5>Experience</h5>
-               <small>8 months working</small>
+               <small>1 year+ working</small>
              </article>
              <article className='about_card'>
               <BsFillFolderFill className='about_icon'/>
@@ -39,7 +39,7 @@ const About = () => {
              Hi! I am Amit Sagar.
              I am a web developer seeking roles in an organization where technical skills are useful and I am provided with opportunities to grow.
              I have done my bachelors in Electronics and Communication Engineering. I have excellent knowledge of frontend technologies like HTML,CSS, JavaScript,
-             React& Redux etc.And also having 8 months experience as a Software Developer intern at Opensense Labs.
+             React& Redux etc. And also having 1 year+ industrial experience.
              
            </p>
 

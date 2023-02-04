@@ -48,7 +48,8 @@ header{
     left: calc(50% - 11rem) ;
     position: absolute;
     width: 22rem;
-    height: 22rem;
+    height: auto;
+    object-fit: fill;
 }
 .scroll_down{
     position:absolute;
