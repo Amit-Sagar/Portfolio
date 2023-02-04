@@ -21,7 +21,7 @@ const Portfolio = () => {
         <h3>Netflix-Clone</h3>
         <div className='portfolio_item-cta'>
         <a href='https://github.com/Amit-Sagar/Netflix-clone' className='btn btn-primary'>Github</a>
-        <a href="https://netflix-clone-bff70.web.app/" className='btn btn-primary'>Live Demo</a>
+        <a href="https://netflix-clone-lac-eta.vercel.app/" className='btn btn-primary'>Live Demo</a>
         </div>
         </article>
         <article className='portfolio_item'> 
@@ -31,7 +31,7 @@ const Portfolio = () => {
         <h3>Cryptoverse</h3>
         <div className='portfolio_item-cta'>
         <a href='https://github.com/Amit-Sagar/cryptoverse' className='btn btn-primary'>Github</a>
-        <a href="http://create-cryptoverse.herokuapp.com/" className='btn btn-primary'>Live Demo</a>
+        <a href="https://cryptoverse-one-navy.vercel.app/" className='btn btn-primary'>Live Demo</a>
         </div>
         </article>
         <article className='portfolio_item'> 
